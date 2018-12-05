@@ -1,0 +1,3 @@
+Custom OnClickListener based on code found at: https://gist.github.com/riyazMuhammad/1c7b1f9fa3065aa5a46f#file-itemslistadapter-java-L13
+CardView based on example found at:  https://www.androidhive.info/2016/05/android-working-with-card-view-and-recycler-view/
+Unless specified above, attribution will be inline where applicable

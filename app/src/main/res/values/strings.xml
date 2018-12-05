@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">ABND_Project6_NewsApp_Picasso</string>
+
+    <!-- Text to display in the list when there are no earthquakes -->
+    <string name="no_news_items">Nothing to display.  Please try again later.</string>
+
+    <!-- Text to display in the list when there is no Internet connection -->
+    <string name="no_internet_connection">No Internet connection found.</string>
+
+    <string name="news_item_section_label">Section:</string>
+    <string name="news_item_author_label">Author:</string>
+    <string name="news_item_date_label">Date:</string>
+
+    <!-- Labels and values for Settings Menu -->
+    <string name="news_settings_section_label1">Technology</string>
+    <string name="news_settings_section_label2">Business</string>
+    <string name="news_settings_section_label3">Games</string>
+    <string name="news_settings_section_label4">Environment</string>
+    <string name="news_settings_section_label5">Film</string>
+
+    <string name="news_settings_section_value1">technology</string>
+    <string name="news_settings_section_value2">business</string>
+    <string name="news_settings_section_value3">games</string>
+    <string name="news_settings_section_value4">environment</string>
+    <string name="news_settings_section_value5">film</string>
+
+    <string name="news_settings_title">News Settings</string>
+    <string name="news_settings_menu_item">Settings</string>
+    <string name="news_settings_section_default" translatable="false">@string/news_settings_section_value1</string>
+    <string name="news_settings_label" translatable="false">Tap to choose a Section</string>
+    <string name="news_settings_section_key" translatable="false">section_key</string>
+    <string name="news_item_imageView_content_description">Thumbnail Image</string>
+</resources>

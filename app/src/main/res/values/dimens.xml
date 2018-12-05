@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="news_list_item_padding">16dp</dimen>
+    <dimen name="news_item_title_textSize">16sp</dimen>
+    <dimen name="news_item_section_label_paddingRight">8dp</dimen>
+    <dimen name="news_item_author_label_paddingRight">8dp</dimen>
+    <dimen name="news_item_date_label_paddingRight">8dp</dimen>
+    <dimen name="empty_view_padding">16dp</dimen>
+    <dimen name="news_item_constraint_barrier_layoutWidth">2dp</dimen>
+    <dimen name="news_item_constraint_barrier_layoutHeight">2dp</dimen>
+    <dimen name="news_item_author_layout_marginLeft">4dp</dimen>
+    <dimen name="news_item_author_layout_marginStart">4dp</dimen>
+    <dimen name="news_item_date_layout_marginLeft">4dp</dimen>
+    <dimen name="news_item_date_layout_marginStart">4dp</dimen>
+    <dimen name="cardView_cornerRadius">5dp</dimen>
+</resources>

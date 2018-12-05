@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="news_settings_section_labels">
+        <item>@string/news_settings_section_label1</item>
+        <item>@string/news_settings_section_label2</item>
+        <item>@string/news_settings_section_label3</item>
+        <item>@string/news_settings_section_label4</item>
+        <item>@string/news_settings_section_label5</item>
+    </string-array>
+
+    <string-array name="news_settings_section_values">
+        <item>@string/news_settings_section_value1</item>
+        <item>@string/news_settings_section_value2</item>
+        <item>@string/news_settings_section_value3</item>
+        <item>@string/news_settings_section_value4</item>
+        <item>@string/news_settings_section_value5</item>
+    </string-array>
+</resources>
